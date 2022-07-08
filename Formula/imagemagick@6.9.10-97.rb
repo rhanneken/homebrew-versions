@@ -1,7 +1,7 @@
 class ImagemagickAT691097 < Formula
   desc "Tools and libraries to manipulate images in many formats"
   homepage "https://legacy.imagemagick.org/"
-  url "https://www.imagemagick.org/download/releases/ImageMagick-6.9.10-97.tar.xz"
+  url "https://www.imagemagick.org/archive/releases/ImageMagick-6.9.10-97.tar.xz"
   sha256 "a7c84103ddf5759eae39fb90fda3803fb32c7739f1cbebcb21d11e052f0ab943"
   license "ImageMagick"
   head "https://github.com/imagemagick/imagemagick6.git", tag: "6.9.10-97", revision: "1ec79babb7c8b6996939d30c90fa2b731d2c4f36"
